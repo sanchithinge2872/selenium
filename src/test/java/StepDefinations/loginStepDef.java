@@ -61,7 +61,7 @@ public class loginStepDef {
 		//System.setProperty("webdriver.chrome.driver", "C:\\app\\3.141.5\\chromedriver\\chromedriver.exe");
 
 		
-		System.out.println("Successfully logged In");
+		System.out.println("Wow! Successfully logged In");
 	   
 	}
 }
